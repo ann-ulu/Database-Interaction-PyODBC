@@ -1,8 +1,7 @@
 # Database-Interaction-PyODBC
 This project involves using pyodbc module to interact with a database in a Jupyter notebook
 
-This project demonstrates how to use pyodbc to connect to a SQL Server database from a Jupyter notebook and execute SQL queries to fetch data into a Pandas DataFrame.
-
+This project demonstrates how to use pyodbc to connect to a SQL Server database from a Jupyter notebook and execute SQL queries.
 # Project Overview
 The example code in this repository illustrates:
 
