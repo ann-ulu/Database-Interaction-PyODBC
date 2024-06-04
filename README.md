@@ -1,5 +1,4 @@
 # MSSQL-Database-Interaction-PyODBC
-This project involves using pyodbc module to interact with a MSSQL database in Jupyter notebook
 
 This project demonstrates how to use pyodbc to connect to a MSSQL Server database from a Jupyter notebook and execute SQL queries.
 # Project Overview
