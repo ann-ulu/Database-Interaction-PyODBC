@@ -5,6 +5,6 @@ This project demonstrates how to use pyodbc to connect to a MSSQL Server databas
 # Project Overview
 The example code in this repository illustrates:
 
-Connecting to a Database: Using pyodbc to establish a connection to a MSSQL Server database.
-Executing SQL Queries: Fetching data from the database using SQL queries.
-Handling Data with Pandas: Loading the query results into a Pandas DataFrame for data manipulation and analysis.
+Connecting to a Database: Using pyodbc to establish a connection to a MSSQL Server database.<br>
+Executing SQL Queries: Fetching data from the database using SQL queries.<br>
+Handling Data with Pandas: Loading the query results into a Pandas DataFrame for data manipulation and analysis.<br>
